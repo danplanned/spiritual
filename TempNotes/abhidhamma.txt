@@ -318,7 +318,7 @@ Lộ tâm ý môn: 2 loại chính
 1. Đổng Lực dục giới
 	a. Lộ ý môn thuần túy
 		i. Chót na cảnh
-			1. Sắc pháh hiện tại được tạo ra một cách cụ thể (paccupanna nipphanna rupa)
+			1. Sắc pháp hiện tại được tạo ra một cách cụ thể (paccupanna nipphanna rupa)
 5 lộ:
 H V R D Y J J J J J J J Na Na H H H H H 
 	+ V, R, D: 10 tâm (8 đại quả, 2 quan sát thọ xả) :bắt nghiệp, nghiệp tướng hoặc thú tướng; làm chức năng hộ kiếp, vô môn, và nương sắc ý vật 
@@ -359,6 +359,7 @@ H V V V V R D Y J J J J J J J H H H H
 H V V V V V R D Y J J J J J J J H H H 
 H V V V V V V R D Y J J J J J J J H H 
 H V V V V V V V R D Y J J J J J J J H 
+
 	+ V, R, D: 15 tâm (8 đại quả, 2 quan sát, thọ xả, 5 quả sắc giới) bắt nghiệp, ngiệp tướng hoặc thú tướng, làm chức năng hộ kiếp, vô môn và nương vào sắc ý vật 
 	+ Y: 1 hướng ý môn làm chức năng hướng tâm, bắt cảnh sắc hiện tại được tạo ra một cách cụ thể, phụ thuộc vào ý môn, nương vào sắc ý vật
 	+ J: 29 đổng lực dục giới làm chức năng đổng lực, bắt cảnh như trên, phụ thuộc vào ý môn, nương vòa sắc ý vật 
@@ -402,6 +403,33 @@ H V V V V V V V R D Y J J J J J J J H
 
 Giống như trên 
 H R D Y J J J J J J J H
+
+	+ Chót vô ký(lộ chiêm bao)
+H R D Y Y Y H: cảnh mở nhạt
+Lộ chiêm bao chỉ sanh lên cho cõi nhân loại: 4 phàm nhân (người khổ, người lạc vô nhân, người nhị vô nhân, và người tam nhân), người Sơ quả và người nhị quả. những người còn lại và những chings sanh các cõi khác không có chiêm bao. 
+
+Như vậy có 23 lộ ý môn thuần túy (chót na cảnh: 5 + 1 , chót đổng lực cảnh rõ rệt: 7 + 1, chót đổng lực cảnh mờ nhạt: 7 + 1, chót vô ký: 1)
+
+Tâm đối tượng và cảnh giới:
+	+ Có 3 loại tâm: Y, J, Na
+	+ Chót na cảnh: 41 (1 hướng ý môn, 29 đổng lực, 11 na cảnh)
+	+ Chót đổng lực: 30 (1 hướng ý môn, 29 đổng lực)
+	+ Chỉ có lộ tâm cảnh rõ rệt mới có thể bắt Niết Bàn làm cảnh
+	+ Lộ tâm chót na cảnh chỉ được tìm thấy trong dục giới. Lộ tâm chót đổng lực được tìm thấy trong 30 cõi (trừ Vô tưởng)
+	+ Tất cả các lộ tâm trên xảy ra cho 8 hạng người (4 phàm nhân và 4 người quả)
+	
+
+Chi tiết thêm:
+	+ Theo ngài Ledi, chia lộ tâm thành 4 loại (4 cách biểu hiện của cảnh): cảnh rất rõ, cảnh rõ, cảnh mờ nhạt và cảnh rất mờ nhạt
+		+ Cảnh rất rõ là kết thúc với na cảnh
+		+ Cảnh rõ thì kết thúc với đổng lực
+		+ Cảnh mờ nhạt thì kết thúc với hướng ý môn
+		+ Cảnh rất mờ nhạt thì không có tâm hàng động (dòng tâm hữu phần chỉ rúng động 2 lần)
+	+ Quan điểm chung của các giáo thọ sư Thắng Pháp (như được trình bày trong Abhidhammatthasangaha): 
+		+ Lộ tâm cảnh rõ phài có na cảnh
+		+ Do đó, nếu đối tượng của lộ tâm không phải là dục giới, thì đó là lộ tâm cảnh mờ nhạt 
+
+
 
 
 	b. Lộ ý môn nối đuôi 
