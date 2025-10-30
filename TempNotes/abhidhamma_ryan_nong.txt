@@ -400,7 +400,7 @@ H R D Y J J J J J J J H
 
 	+ Chót vô ký(lộ chiêm bao)
 H R D Y Y Y H: cảnh mở nhạt
-Lộ chiêm bao chỉ sanh lên cho cõi nhân loại: 4 phàm nhân (người khổ, người lạc vô nhân, người nhị vô nhân, và người tam nhân), người Sơ quả và người nhị quả. những người còn lại và những chings sanh các cõi khác không có chiêm bao. 
+Lộ chiêm bao chỉ sanh lên cho cõi nhân loại: 4 phàm nhân (người khổ, người lạc vô nhân, người nhị vô nhân, và người tam nhân), người Sơ quả và người nhị quả. những người còn lại và những chúng sanh các cõi khác không có chiêm bao. 
 
 Như vậy có 23 lộ ý môn thuần túy (chót na cảnh: 5 + 1 , chót đổng lực cảnh rõ rệt: 7 + 1, chót đổng lực cảnh mờ nhạt: 7 + 1, chót vô ký: 1)
 
@@ -426,8 +426,55 @@ Chi tiết thêm:
 
 
 
-	b. Lộ ý môn nối đuôi 
+	b. Lộ ý môn nối đuôi: có năm loại đi theo sau những lộ nhãn, nhĩ, tỷ, thiệt thân môn. Những lộ ý môn theo sau lộ nhãn mmôn(atitaggahana vithi): 4 lộ:
+		i. (1)Lộ tâm bắt cảnh quá khứ mà đã được nhận thức trong lộ nhãn môn: bắt cảnh chân đế
+		Cảnh rõ: H R D Y J J J J J J J Na Na H
+		Cảnh mờ nhạt: H R D Y J J J J J J J H
+		ii. (2)Lộ tâm phân định ra được đối tượng là một tổng thể (samuhaggahana vithi): bắt cảnh chân đế  
+		Cảnh rõ: H R D Y J J J J J J J Na Na H
+		Cảnh mờ nhạt: H R D Y J J J J J J J H
+		iii.(3) Lộ tâm phân định ra được hình dáng (ý nghĩa, vật thể) của đối tượng (atthaggahana vithi): bắt cảnh chế định 
+		Cảnh rõ: H R D Y J J J J J J J H
+		Cảnh mờ nhạt: H R D Y J J J J J J J H
+		iv.
 2. Đổng lực kiên cố
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -458,7 +505,7 @@ thú tướng:
 
 
 
-ryan nong lecture 30 39:18 
+ryan nong lecture 31 13:57 
 
 
 https://docs.google.com/presentation/d/1Ntnr6DNQCZBrlgdFYLU345xtxGlxlUfNa0dnoGxJT7s/edit?usp=sharing
@@ -561,10 +608,25 @@ https://giacnguyen.com/tailieu/1231/read.php?id=08
 
 
 
+1 H 
+2 V 
+3 R 
+4 D 
+5 J
+6 J
+7 J
+8 J
+9 J
+10 J
+11 J
+12 Na 
+13 Na
 
 
-
-
+1-13 cảnh rất rõ 
+1-11 cảnh rõ
+1-4 cảnh mờ nhạt 
+1-2 cảnh rất mờ nhạt 
 
 
 
