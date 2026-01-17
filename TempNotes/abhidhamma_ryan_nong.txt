@@ -436,7 +436,9 @@ Chi tiết thêm:
 		iii.(3) Lộ tâm phân định ra được hình dáng (ý nghĩa, vật thể) của đối tượng (atthaggahana vithi): bắt cảnh chế định 
 		Cảnh rõ: H R D Y J J J J J J J H
 		Cảnh mờ nhạt: H R D Y J J J J J J J H
-		iv.
+		iv. Lộ tâm phân định tên họi của đối tượng (namaggahana vithi): bắt cảnh chế định 
+		Cảnh rõ: H R D Y J J J J J J J H
+		Cảnh mờ nhạt: H R D Y J J J J J J J H
 2. Đổng lực kiên cố
 
 
@@ -504,6 +506,21 @@ nghiệp tướng : những thứ đã dùng trong việt thiện hoặc ác
 thú tướng: 
 
 
+Chế Định 
+1. Danh Chế Định
+a. Danh Chơn - Anything on the chart
+b. Phi Danh Chơn -  Anything not on the chart
+c. Danh Chơn Phi Danh Chơn - tâm sân của Bờm
+
+
+Hư Không Nghĩa Chế Định 
+Space between objects
+
+Phương Hướng Nghĩa Chế Định
+any direction 
+
+Hình Tướng Nghĩa Chế Định 
+Image, Symbol
 
 ryan nong lecture 31 13:57 
 
