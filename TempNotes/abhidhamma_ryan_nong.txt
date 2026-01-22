@@ -426,19 +426,36 @@ Chi tiết thêm:
 
 
 
-	b. Lộ ý môn nối đuôi: có năm loại đi theo sau những lộ nhãn, nhĩ, tỷ, thiệt thân môn. Những lộ ý môn theo sau lộ nhãn mmôn(atitaggahana vithi): 4 lộ:
+	b. Lộ ý môn nối đuôi: có năm loại đi theo sau những lộ nhãn, nhĩ, tỷ, thiệt thân môn. Những lộ ý môn theo sau lộ nhãn môn(atitaggahana vithi): 4 lộ:
 		i. (1)Lộ tâm bắt cảnh quá khứ mà đã được nhận thức trong lộ nhãn môn: bắt cảnh chân đế
 		Cảnh rõ: H R D Y J J J J J J J Na Na H
 		Cảnh mờ nhạt: H R D Y J J J J J J J H
-		ii. (2)Lộ tâm phân định ra được đối tượng là một tổng thể (samuhaggahana vithi): bắt cảnh chân đế  
+		ii. (2)Lộ tâm phân định ra được đối tượng là một tổng thể (samuhaggahana vithi)(overall, don't know the name of the object): bắt cảnh chân đế  
 		Cảnh rõ: H R D Y J J J J J J J Na Na H
 		Cảnh mờ nhạt: H R D Y J J J J J J J H
-		iii.(3) Lộ tâm phân định ra được hình dáng (ý nghĩa, vật thể) của đối tượng (atthaggahana vithi): bắt cảnh chế định 
+		iii.(3) Lộ tâm phân định ra được hình dáng (ý nghĩa, vật thể) của đối tượng (atthaggahana vithi)(shape, functionality, and material): bắt cảnh chế định 
 		Cảnh rõ: H R D Y J J J J J J J H
 		Cảnh mờ nhạt: H R D Y J J J J J J J H
 		iv. Lộ tâm phân định tên họi của đối tượng (namaggahana vithi): bắt cảnh chế định 
 		Cảnh rõ: H R D Y J J J J J J J H
 		Cảnh mờ nhạt: H R D Y J J J J J J J H
+
+Đối với những lộ ý môn nối đuôi sanh lên sau lộ nhĩ môn: 0 1 0 1 0 1... 0 1 2 4 3  
+
+
+Đối với thân biểu tri: sáu lộ sanh lên:
+	a. Lộ nhãn môn:
+	b. Lộ ý môn bắt cảnh quá khứ
+	c. Lộ ý môn bắt thân biểu tri làm cảnh
+	d. Lộ ý môn phân định toàn bộ thân biểu tri như là một tổng thể (bắt pháp chân đế)
+	e. Lộ ý môn phân định chức năng của sự biểu tri (ví dụ thông qua bàn tay)(bắt pháp chế định)
+	f. Lộ ý môn bắt ý nghĩa của thân biểu tri (pháp chế định)
+
+	a b c a b c a b c .....
+	a b c d e f 
+
+
+
 2. Đổng lực kiên cố
 
 
@@ -522,7 +539,7 @@ any direction
 Hình Tướng Nghĩa Chế Định 
 Image, Symbol
 
-ryan nong lecture 31 13:57 
+ryan nong lecture 31 24:29 
 
 
 https://docs.google.com/presentation/d/1Ntnr6DNQCZBrlgdFYLU345xtxGlxlUfNa0dnoGxJT7s/edit?usp=sharing
