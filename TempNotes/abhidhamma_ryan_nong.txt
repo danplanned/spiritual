@@ -455,8 +455,58 @@ Chi tiết thêm:
 	a b c d e f 
 
 
+Đối với ngữ biểu tri: sáu lộ sanh lên:
+	a.Lộ nhĩ môn
+	b. Lộ ý môn bắt cảnh quá khức
+	c. Lộ ý môn bắt ngữ biểu tri làm cảnh
+	d. Lộ ý môn phân định toàn bộ ngũ biểu tri như là một tổng thể (bắt chân đế)
+	e. Lộ ý môn phân định chức năng của sự biểu tri (thông qua âm thanh) (bắt pháp chế định)
+	f. Lộ ý môn bắt ý nghĩa của ngữ biểu tri (pháp chế định)
 
-2. Đổng lực kiên cố
+
+2. Đổng lực kiên cố (appana)
+Appana là từ đồng nghĩa với vitakka (đặt tâm vào đối tượng)
+	a. Lộ đắc thiền (jhana appana vithi): có 2 loại
+		i. Người độn căn (tuệ quyền yếu): 
+		H R D Y P U A G Jh H
+		H: Hộ Kiếp 
+		R: Rung Động
+		D: Dức Dòng
+		Y(Ma: Manodvaravajjana): Hướng Ý Môn
+		P(Pảikamma): Chuẩn Bị 
+		U(Uppacara): Cận Hành 
+		A(Anuloma): Thuận Thứ
+		G(Gotrabhu): Chuyển Tộc 
+		Jh: Jhana
+		H: Hộ Kiếp 
+
+		ii. Người lợi căn (tuệ quyền mạnh):
+		H R D Y U A G Jh H 
+
+		R,D: 13 tâm (4 đại quả hợp trí, 5 quả sắc giới, 4 quả vô sắc) làm chức năng hộ kiếp, bắt nghiệp, nghiệp tướng hoặc thú tướng, vô môn và nương vào sắc ý vật 
+		Y: 1 tâm hướng ý môn, làm chức năng hướng tâm, bắt chế định (nói chung) làm cảnh, phụ thuộc vào ý môn, nương vào sắc ý vật
+		P: parikamma: chuẩn bị (chuẩn bị dòng tâm thức cho việc chứng đắc thiền): 8 tâm (4 đại thiện hợp trí, 4 đại duy tác hợp trí) làm chức năng đổng lực, bắt chế định (nói chung) làm cảnh, phụ thuộc ý môn, nương vào sắc ý vậ t
+		U: upacara: cận hành (vùng lân cận, tiếp cận với sự chứng đắc): giống với P
+		A:Anuloma: thuận thứ (làm tương thích những tâm đi trước và những tâm đi sau): giống với P
+		G:gotrabhu:chuyển tộc (khắc phục dòng dục giới, bước vào dòng đáo đại): giống như P
+		Jh: 18 tâm (9 thiền thiện, 9 thiền duy tác)
+			SƠ thiền sắc giới: (2 tâm): cảnh là 1 trong 25 loại chế định
+			Nhị thiền sắc giới: (2 tâm): cảnh là 1 trong 14 loại chế định
+			Tam thiền sắc giới (2 tâm): cảnh là 1 trong 14 loại chế định
+			Tứ thiền sắc giới (2 tâm): cảnh là 1 trong 14 loại chế định
+			Ngũ thiền sắc giới (2 tâm): cảnh là 1 trong 14 loại chế định
+			Vô sắc 1 (2 tâm): 1 không gian vô tận 
+			Vô sắc 2 (2 tâm): cảnh đáo đại, vô sắc thứ 1
+			Vô sắc 3 (2 tâm): 1 không hiện hữu
+			Vô sắc 4 (2 tâm): cảnh đáo đại, vô sắc thứ 3 
+
+	b. Lộ nhập thiền
+	c. Lộ đắc đạo
+	d. Lộ nhập thiền quả
+	e. Lộ nhập thiền diệt
+	f. Lộ thần thông
+
+
 
 
 
@@ -539,7 +589,18 @@ any direction
 Hình Tướng Nghĩa Chế Định 
 Image, Symbol
 
-ryan nong lecture 31 24:29 
+ryan nong lecture 31 52:41 
+
+
+nghiệp
+nghiệp tướng 
+thú tướng 
+
+
+
+
+
+
 
 
 https://docs.google.com/presentation/d/1Ntnr6DNQCZBrlgdFYLU345xtxGlxlUfNa0dnoGxJT7s/edit?usp=sharing
