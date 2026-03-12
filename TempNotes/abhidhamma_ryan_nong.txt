@@ -518,6 +518,19 @@ Appamana: những pháp siêu thế
 		+ Tổng cộng: 20 + 16 + 12 + 8 + 40 = 96 lộ 
 
 	+ Có 2 quan điểm về người nào có thể đắc thiền nào.
+		+ Quan điểm 1: Phạm thiên ở một cõi cố định nào đó có khả năng nhập vào thiền tương ứng với cõi đó mà không cần phải tu thiền lại 
+			+ Lộ đắc sơ thiền (thiện và duy tác): sanh lên cho những người: tam nhân, 4 bậc Thánh (Quả) trong 7 cõi dục giới thiện thú => R,D: 4 đại quả hợp trí
+			+ Lộ đắc nhị thiền (thiện và duy tác) 
+			+ Lộ đắc nhị thiền (thiện và duy tác): cộng thêm 3 cõi Sơ thiền
+			+ Lộ đắc tam thiền (thiện và duy tác): cộng thêm 3 cõi Nhị thiền => R, D: 4 đại quả hợp trí, tâm quả Sơ thiền và tâm quả Nhị thiền
+			+ Lộ đắc tứ thiền (thiện và duy tác): không cộng thêm cõi nào khác (vì nhị thiền và tam thiền sanh về cói Nhị thiền; tứ thiền sanh về cõi tam thiền) => R,D: 4 đại quả hợp trí, tâm quả Sơ thiền, Nhị thiền và Tam thiền
+			+ Lộ đắc ngũ thiền (thiện và duy tác): cộng thêm 3 cõi Tam thiền => R, D: 4 đại quả hợp trí và 4 tâm quả sắc giới thấp
+			+ Lộ đắc vô sắc 1 (thiề và duy tác): cộng thêm 6 cõi Tứ thiền (tức là 7 thiện dục giới + 15 cõi sắc giới, trừ cõi vô tưởng) => R, D: 4 đại quả hợp trí và 5 quả sắc giới 
+			+ Lộ đắc vô sắc 2 (thiền và duy tác): cộng thêm cõi vô sắc 1 => R, D: 4 đại quả hợp trí, 5 quả sắc giới và quả vô sắc 1
+			+ Lộ đắc vô sắc 3 (thiền và duy tác): cộng thêm cõi vô sắc 2 => R, D: 4 đại quả hựp trí, 5 quả sắc giới, quả vô sắc 1 và 2
+			+ Lộ đắc vô sắc 4 (thiện và duy tác): cộng thêm cõi vô sắc 3 => R, D: 4 đại quả hợp trí, 5 quả sắc giới và 3 quả vô sắc thấp 
+		+ Quan điểm 2: Phạm thiên ở một cõi cố định nào đó không có khả năng nhập vào thiền tương ứngvowis cõi đó mà cần phải tu thiền lại 
+
 
 		[2 hạng người là lanh lợi và đần độn, nhưng từ đúng là lợi căn và độn căn ]
 	b. Lộ nhập thiền
@@ -539,7 +552,7 @@ Vậy lúc nào tâm thức quyết định là tâm đổng lực là thiện h
 
 
 
-ryan nong lecture 32  32:01
+ryan nong lecture 32  1:00:59
 
 https://docs.google.com/presentation/d/1Ntnr6DNQCZBrlgdFYLU345xtxGlxlUfNa0dnoGxJT7s/edit?usp=sharing
 
