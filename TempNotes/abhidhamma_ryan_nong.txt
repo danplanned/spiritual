@@ -473,7 +473,7 @@ Appana là từ đồng nghĩa với vitakka (đặt tâm vào đối tượng)
 		R: Rung Động
 		D: Dức Dòng
 		Y(Ma: Manodvaravajjana): Hướng Ý Môn
-		P(Pảikamma): Chuẩn Bị 
+		P(Parikamma): Chuẩn Bị 
 		U(Uppacara): Cận Hành 
 		A(Anuloma): Thuận Thứ
 		G(Gotrabhu): Chuyển Tộc 
@@ -529,12 +529,31 @@ Appamana: những pháp siêu thế
 			+ Lộ đắc vô sắc 2 (thiền và duy tác): cộng thêm cõi vô sắc 1 => R, D: 4 đại quả hợp trí, 5 quả sắc giới và quả vô sắc 1
 			+ Lộ đắc vô sắc 3 (thiền và duy tác): cộng thêm cõi vô sắc 2 => R, D: 4 đại quả hựp trí, 5 quả sắc giới, quả vô sắc 1 và 2
 			+ Lộ đắc vô sắc 4 (thiện và duy tác): cộng thêm cõi vô sắc 3 => R, D: 4 đại quả hợp trí, 5 quả sắc giới và 3 quả vô sắc thấp 
-		+ Quan điểm 2: Phạm thiên ở một cõi cố định nào đó không có khả năng nhập vào thiền tương ứngvowis cõi đó mà cần phải tu thiền lại 
+		+ Quan điểm 2: Phạm thiên ở một cõi cố định nào đó không có khả năng nhập vào thiền tương ứng với cõi đó mà cần phải tu thiền lại 
 			+ Lộ đắc sơ thiền (thiện và duy tác): sanh lên cho những người tam nhân, 4 bậc Thahs trong 7 cõi dục giới thiện thú, 15 cõi sắc giới => R, D: 4 đại quả hợp trí, 5 quả sắc giới
 			+ Lộ đắc nhị thiền (thiện và duy tác): như trên 
 			+ ...
 			+ Lộ đắc ngũ thiền (thiện và duy tác): như trên
-			+ Lộ đắc vô sắc 1 (thiện và duy tác): cộng thêm cõi vô sắc thứ nhất => 
+			+ Lộ đắc vô sắc 1 (thiện và duy tác): cộng thêm cõi vô sắc thứ nhất => R, D: 4 đại quả hợp trí, 5 sắc giới, quả vô sắc 1
+			+ Lộ đắc vô sắc 2 (t và dt: cộng thêm cõi vô sắc 2 => R, D: cộng thêm quả vô sắc 2)
+			+ Lộ đắc vô sắc 3 (t và dt: cộng thêm cõi vô sắc 3 => R, D: cộng thêm quả vô sắc 3)
+			+ Lộ đắc vô sắc 4 (t và dt: cộng thêm cõi vô sắc 4 => R, D: cộng thêm quả vô sắc 4)
+
+	b. Lộ nhập thiền: có 2 lộ dành cho 2 hạng người:
+	Dộn căn: H R D Y P U A G Jh Jh ...... Jh H: cho hành giả có tuệ quyền yếu
+	Lợi căn:  H R D Y U A G Jh Jh ...... Jh H: cho hành giả có tuệ quyền mạnh 
+
+	+ Các chúng sanh chứng đắc thiền trong các cõi dục và các cõi sắc giới thì có thể nhập vào tất cả các tầng thiền (có thể đến 9 tầng thiền đã chứng đắc. Nhưng mà chúng sanh trong các cõi vô sắc thì chỉ có thể chứng đắc và nhập vào những tầng thiền ngang bằng và cao hơn )
+	+ 5 sự tinh thông (vasita):
+		+ Avajjana-vasita: sự tinh thông trong việc hướng về (trong việc hướng tâm đến từng chi thiền => ám chỉ tới khả năng của tâm hướng ý môn )
+		+ Samapajjana-vasita: sự tinh thông trong việc nhập thiền (dễ dàng nhập)
+		+ Adhitthana-váita: tính quyết định (trụ bao lâu) 
+		+Vutthana-vasita: trong việc xuất thiền (theo thời gian đã định trước)
+		+ Paccavekkhana-vasita: trong việc phản khán (muốn nói đến những đổng lực ) 
+
+
+
+
 
 lộ vô sắc, những tâm tần thiền đắc được cao thì các tần thiền thấp sẽ mất 
 áp dụng cho những cõi vô sắc giới, không phải những cõi thấp hơn
@@ -561,7 +580,7 @@ Vậy lúc nào tâm thức quyết định là tâm đổng lực là thiện h
 
 
 
-ryan nong lecture 33 30:00
+ryan nong lecture 33 52:33
 
 
 https://docs.google.com/presentation/d/1Ntnr6DNQCZBrlgdFYLU345xtxGlxlUfNa0dnoGxJT7s/edit?usp=sharing
