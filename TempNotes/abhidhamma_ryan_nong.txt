@@ -627,11 +627,51 @@ H R D Y U A G Mg Ph Ph H: lợi căn
 		+ Nhị quả: những điểm khác với sơ quả tương ưng là:
 			+ Ph: nhị quả tương ứng 
 			+ Sanh lên trong 1 hạng người: nhị quả 
+		+ Tam quả: những điểm khác với nhị quả tương ứng là: 
+			+ Ph: tam quả tương ứng
+			+ Sanh lên trong 1 hạng người: tam quả
+			+ Sanh lên trong 7 dục giới, 15 sắc giới và 4 vô sắc
+		+ Tứ quả: những điểm khác với tam quả tương ứng là:
+			+ Ph: tứ quả tương ứng
+			+ Sanh lên trong 1 hạng người: tứ quả
+			+ Những lộ phản khán: 4 loại (trừ loại phiền não dư sót); những đổng lực là đại duy tác 
+	Có 4 loại: sơ quả, nhị quả, tam quả, tứ quả. Mỗi loại quả có 5 loại thiền: sơ thiền, nhị ... ngũ thiền. Mỗi loại có 2 lộ: độn căn và lợi căn => 40 lộ nhập thiền quả 
 
-	e. Lộ nhập thiền diệt 
+	Animitta (vô tướng, do quán vô thương )
+	Appanihita (vô nguyện, do quán khổ)
+	Sunnata (không tánh, do quán vô ngã)
+
+	e. Lộ nhập thiền diệt (nỉodha sâmpatti vithi) Trình tự để nhập vào thiền diệt:
+		+ Hành giả phải là Tam Quả  hoặc Tứ Quả
+		+ Hành giả phải đắc được tất cả 9 tầng thiền (5 sắc giới và 4 vô sắc )
+		+ Nhập vào sơ thiền (lộ nhập thiền), xuất khỏi sơ thiền, quán tam tướng của các chi thiền và tâm thiền của sơ thiền (lộ ý môn thuần túy )
+		+ Nhập vào nhị thiền (lộ nhập thiền), xuất khỏi nhị thiền, quán tam tướng của các chi thiền và tâm thiền của nhị thiền (lộ ý môn thuần túy )
+		+ ...
+		+ Nhập vào thức vô biên xứ, xuất khỏi thức vô biên xư, quan tam tướng của vô sở hữu xứ, xuất khỏi vô sở hữu xứ
+		+ Chú nguyện 4 điều:
+			+ Các vật dingj không gắn liền với thân xác không bị hủy diệt 
+			+ Sẽ tự động xuất thiền (diệt) khi Chư Tăng cần sự có mặt của mình
+			+ Sẽ tự động xuất thiền (diệt) khi Đức Phật triệu tập
+			+ Xem có còn sống đủ 6 ngày không
+		+ Nhập vào phi tưởng phi phi tưởng 
+		+ Trong 7 ngày liên tục, vị đó không còn tâm thức nữa 
+		+ Tâm Tam Quả hoặc Tứ Quả sanh lên 
+		+ Lộ tâm phản khán 
+
+		+ Lộ nhập thiền diệt 
+	Độn căn: H R D Y A A A A Jh Jh [không tâm] Ph H 
+	Lợi că:  H R D Y A A A Jh Jh [không tâm] Ph H
+
 	f. Lộ thần thông 
 
 
+
+
+
+
+Kinh - a la hán lục thông
+luật - a la hán tam minh
+luận - tứ tuệ phân tích 
 
 tầm -> tầm
 tứ -> tứ 
@@ -689,7 +729,7 @@ Vậy lúc nào tâm thức quyết định là tâm đổng lực là thiện h
 
 
 
-ryan nong lecture 35 56:48
+ryan nong lecture 36 23:56
 
 
 https://docs.google.com/presentation/d/1Ntnr6DNQCZBrlgdFYLU345xtxGlxlUfNa0dnoGxJT7s/edit?usp=sharing
